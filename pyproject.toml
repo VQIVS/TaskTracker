@@ -10,6 +10,7 @@ fastapi = "*"
 uvicorn = "*"
 sqlalchemy = "*"
 psycopg2 = "*"
+python-dotenv = "^1.1.1"
 
 [tool.poetry.dev-dependencies]
 
